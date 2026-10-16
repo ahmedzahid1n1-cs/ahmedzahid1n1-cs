@@ -58,6 +58,18 @@ I am a final-year university student building a practical foundation in cybersec
 | Google Workspace with Gemini | Google Cloud | Aug 2026 | [Verify](https://coursera.org/verify/specialization/7KJW01VGE0BQ) |
 | Introduction to Generative AI Learning Path | Google Cloud | Aug 2026 | [Verify](https://coursera.org/verify/specialization/7PTGSAJUU3RI) |
 
+## Activity
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ahmedzahid1n1-cs/ahmedzahid1n1-cs/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ahmedzahid1n1-cs/ahmedzahid1n1-cs/output/github-snake.svg" />
+  <img alt="GitHub contribution graph" src="https://raw.githubusercontent.com/ahmedzahid1n1-cs/ahmedzahid1n1-cs/output/github-snake.svg" />
+</picture>
+
+</div>
+
 ## Contact
 
 <div align="center">
